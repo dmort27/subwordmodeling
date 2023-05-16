@@ -1,0 +1,111 @@
+---
+---
+
+/// https://css-tricks.com/snippets/sass/str-replace-function/
+/// Replace `$search` with `$replace` in `$string`
+/// @author Kitty Giraudel
+/// @param {String} $string - Initial string
+/// @param {String} $search - Substring to replace
+/// @param {String} $replace ('') - New value
+/// @return {String} - Updated string
+@function str-replace($string, $search, $replace: '') {
+  $index: str-index($string, $search);
+
+  @if $index {
+    @return str-slice($string, 1, $index - 1) + $replace + str-replace(str-slice($string, $index + str-length($search)), $search, $replace);
+  }
+
+  @return $string;
+}
+
+/// you may specify any of the Google font names here
+// https://fonts.google.com/
+$font: "Gowun Batang";
+//$font: "Open Sans";
+//$font: "Lato";
+//$font: "Quicksand";
+//$font: "Nanum Myeongjo";
+//$font: "Pacifico"; // don't use this :P
+//$font: "Mouse Memoirs"; // don't use this either
+
+$blue: #70a9dd;
+$med-dark-blue: #5a89b3;
+$dark-blue: #456888;
+$very-dark-blue: #2f475d;
+$midnight: #1a2733;
+$fuchsia: #da70dd;
+$orange: #dda470;
+$green: #72dd70;
+$yellow: #ffff00;
+$grey: #444444;
+
+@import "{{ site.theme }}";
+
+@import url("https://fonts.googleapis.com/css?family=" + str-replace($font, " ", "+") + ":400,700");
+
+h1, h2, h3, p, div, .header, h1.header, header, table, th, td {
+    font-family: $font;
+}
+
+p, li, a, td {
+    font-size: 13pt;
+}
+
+th {
+    background-color: #{$blue};
+}
+
+td {
+  color: inherit;
+  background-color: inherit;
+}
+
+tr.lec {
+    td {
+      background-color: #dfdfdf;
+    }
+}
+
+tr.nolec {
+    td {
+    color: #aaa;
+    background-color: #fff;
+  }
+}
+
+a {
+    color: #{$dark-blue};
+    font-style: bold;
+    text-decoration: underline;
+}
+
+header {
+    background-color: #{$blue};
+    border: 1px solid #{$blue};
+    font-style: bold;
+    margin: 0;
+}
+
+a.tiny-link {
+    font-size: 9pt;
+    border: 0;
+}
+
+.blockquote {
+  padding: 0.0in 0.25in 0.0in 0.25in;
+  font-style: italic;
+  color: #{$grey};
+}
+
+/// add other custom SCSS below
+.generalization {
+  background-color: #{$yellow};
+}
+
+.opinion {
+  background-color: #{$green};
+}
+
+.speculation {
+  background-color: #{$blue};
+}

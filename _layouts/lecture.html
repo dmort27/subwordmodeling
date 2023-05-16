@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% comment %}
+cludgey way to figure out which row in the _data/schedule.csv spreadsheet corresponds to this page
+{% endcomment %}
+
+{%- for item in site.data.schedule -%}
+    {%- assign i = forloop.index0 -%}
+    {%- if item["Topic Tag"] == page.slug -%}
+        {%- break -%}
+    {%- endif -%}
+{%- endfor -%}
+
+{%- assign curr = site.data.schedule[i] -%}
+
+<h1>{{ curr["Topic"] }}</h1>
+{% include rel_links.md %}
+
+{%- if curr["Topic Slide Link"] != nil -%}
+    <iframe src='{{ curr["Topic Slide Link"] | replace: "/pub", "" }}/embed?start=false&loop=false&delayms=3000' width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    Slide link: <a target="_{{ curr["Topic Tag"] }}" href='{{ curr["Topic Slide Link"] }}?start=false&loop=false&delayms=3000'>{{ curr["Topic"] }}</a>
+{%- else -%}
+    <!-- no slides for this lecture -->
+{%- endif -%}
+
+<br/>
+
+{{content}}
+

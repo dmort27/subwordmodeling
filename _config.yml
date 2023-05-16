@@ -1,0 +1,46 @@
+theme: jekyll-theme-dinky
+url: https://course.url.com
+title: "course title"
+show_downloads: false
+lsi: false
+safe: true
+source: .
+incremental: false
+highlighter: rouge
+exclude: [ util, analysis ]
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  - jekyll-theme-dinky
+defaults:
+  -
+    scope:
+      path: "_lectures"
+    values:
+      layout: "lecture"
+  -
+    scope:
+      path: "_assignments"
+    values:
+      layout: "assignment"
+  -
+    scope:
+        path: ""
+    values:
+        layout: "default"
+collections:
+    lectures:
+        output: true
+    assignments:
+        output: true

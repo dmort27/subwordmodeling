@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{%- for item in site.data.schedule -%}
+    {%- assign i = forloop.index0 -%}
+    {%- if item["Assignment Tag"] == page.slug -%}
+        {%- break -%}
+    {%- endif -%}
+{%- endfor -%}
+
+{%- assign curr = site.data.schedule[i] -%}
+
+<br/>
+
+{{content}}
+
