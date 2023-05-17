@@ -28,17 +28,10 @@ The goal of this course is to **lead students to engage broadly with the existin
 **Instructor:** Prof. David R. Mortensen
 
 * *Office Location:* GHC 5407
-* *Office Hours:* TBA
-Appointments always welcome
+* *Office Hours:* TBA (Appointments always welcome)
 
 * *Email:* dmortens@cs.cmu.edu
 * *Twitter:* 
-
-**Teaching Assistant:** name
-
-**Office hours:**
-
-**Contact info:**
 
 <a id="objectives">
 
@@ -59,6 +52,8 @@ This course will be based around discussion of readings, guided by handouts. The
 
 <a id="prerequisites">
 ## Prerequisites <a class="tiny-link" href="#">Top</a>
+
+The course is open to graduate students and advanced undergraduates who have completed:
 
 - One prior course in NLP
 - One prior course in ML (preferred, but not required)
