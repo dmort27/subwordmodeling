@@ -2,17 +2,15 @@
 permalink: /
 ---
 
-{% include_relative README.md %}
+# Subword Modeling
 
-# Course Name
+The goal of this course is to **lead students to engage broadly with the existing NLP and computational linguistics research on subword modeling** and **develop new computational approaches to problems in morphology, orthography, and phonology**. In addition to three other miniprojects, students will be expected to produce one piece of research that can be developed into a conference or workshop paper (though submission is not a course requirement). The paper should be suitable for the “Phonology, Morphology, and Word Segmentation” tracks of the *ACL conferences, the SIGMORPHON workshop, Coling, or LREC.
 
-Course description
+**Semester:** Spring 2024
 
-**Semester:** Spring 2196
+**Location:** TBA
 
-**Location:** Room number
-
-**Day/Time:** Day/Time
+**Day/Time:** TBA
 
 <a id="contents"></a>Contents:
 * <a href="#instructors">Instructors</a>
@@ -27,17 +25,16 @@ Course description
 
 ## Instructors <a class="tiny-link" href="#">Top</a>
 
-**Instructor:** name
+**Instructor:** Prof. David R. Mortensen
 
-* *Office Location:*
-* *Office Hours:*
+* *Office Location:* GHC 5407
+* *Office Hours:* TBA
 Appointments always welcome
 
-* *Office Phone:* 
-* *Email:* 
+* *Email:* dmortens@cs.cmu.edu
 * *Twitter:* 
 
-**Learning/Teaching Assistant:** name
+**Teaching Assistant:** name
 
 **Office hours:**
 
@@ -47,32 +44,24 @@ Appointments always welcome
 
 ## Course Objectives <a class="tiny-link" href="#">Top</a>
 
-Short description of course objectives
+At the end of this course, students will:
+- Express a sophisticated understanding of the fundamentals of morphology, phonetics, writing systems, and phonology
+- Understand current papers in computational phonology, morphology, and orthography
+- Implement current subword models of language and carry out publication-quality experiments in this area
+- Write publication-quality papers reporting computational research in phonology, morphology, and orthography
 
 ### Course Principles and Classroom guidelines
 
-In this class:
-* Feeling discomfort is normal - it is a sign of challenge and growth
-* It’s ok to make mistakes, so long as we are dedicated to becoming better
-* This room is a space for respectful dissent
-* The goal is not to agree - it is to gain a deeper understanding.
-
-Classroom ground rules:
-* Listen actively - respect others when they are talking.
-* Speak from your own experience instead of generalizing ("I" instead of "they," "we,"
-and "you")
-* Participate to the fullest of your ability - community growth depends on the inclusion
-of every individual voice.
-* Although no one experience or example will prove accurate 100% of the time, we will
-try to hear the truth in what is said instead of looking for exceptions to the case.
-* Assume everyone’s good intentions but also acknowledge the impact of saying
-something that hurts someone else, even if it is unintended.
-
+This course will be based around discussion of readings, guided by handouts. There will be no slides and no recordings of lectures. There are three groundrules:
+- All class members are expected to have read the readings prior to the beginning of the lecture.
+- All class members have a way of taking notes on handouts (e.g., a tablet + stylus or a printed copy and a pencil/pen). Handouts will be provided at least 24 hours in advance of class. If there is enough demand, the instructor can print copies of the handout for student use.
+- All class members will treat other members of the class with dignity and respect.
 
 <a id="prerequisites">
 ## Prerequisites <a class="tiny-link" href="#">Top</a>
 
-list of prerequisites, if any
+- One prior course in NLP
+- One prior course in ML (preferred, but not required)
 
 <a id="schedule">
 ## Course Schedule <a class="tiny-link" href="#">Top</a>
@@ -208,22 +197,6 @@ including, but not limited to, posting of materials online in forums or
 websites, is a copyright violation and a violation of the academic
 conduct code. Additionally, materials submitted for course credit (papers,
 exams, etc.) are similarly not permitted to be used or posted.
-
-### COVID-19 Responsibilities and Regulations
-
-We are all in this together, and we are committed to offering the best learning
-experience possible given the need for safety. To do this, we need your help.
-We must all be responsible and respectful. Faculty, staff, and teaching fellows
-will wear masks during class and other meetings to protect you; and we expect
-you to do the same. If you show up without a mask, you will be asked to leave.
-If you refuse, the class or meeting will be dismissed in order to protect
-everyone. We also require that you follow the safety practices recommended by
-the CDC outside the classroom, including all state and university guidelines
-regarding sheltering in place while feeling ill, testing, quarantining, social
-contacts, and gatherings. If you cannot follow these guidelines, be responsible
-and respectful: do not show up for in-person learning. Do not put your
-classmates, staff and instructors in danger. Do your learning remotely to make
-it possible for us to safely offer in-person learning to others.
 
 ### Copyright Laws and Protection
 
