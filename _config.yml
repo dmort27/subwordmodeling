@@ -4,7 +4,7 @@ title: "Subword Modeling"
 show_downloads: false
 lsi: false
 safe: true
-source: .
+source: /subwordmodeling
 incremental: false
 highlighter: rouge
 exclude: [ util, analysis, vendor ]
