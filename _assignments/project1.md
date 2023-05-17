@@ -3,7 +3,7 @@
 
 # The First Project
 
-The goal of the first project is to develop a tokenizer—a morphological segmenter—that segments text from an arbitrary language more similarly to gold morpheme segmentations by a linguist than two baselines: a rule-based (FST) baseline and a Unigram tokenization model.
+The goal of the first project is to develop a tokenizer—a morphological segmenter—that segments text from an arbitrary language more similarly to gold morpheme segmentations by a linguist than two baselines: a rule-based (FST) baseline and a Unigram tokenization model. 
 
 ## The data
 
