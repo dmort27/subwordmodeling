@@ -1,7 +1,27 @@
 Date,Day,Lec,Topic,Topic Tag,Topic Slide Link,Instructor,Assignment,Assignment Tag,Secondary Tag
-1/20/2022,TH,1,Intro Lecture,intro,https://docs.google.com/presentation/d/e/2PACX-1vSQ_CPK7jzk6HRwoPsd1aT3GxGHeDALmktcAkfwk_cuEPgM4iKlLHcjVAp1ywgguWj0wi_KNMBpHMWC/pub,Melisa,Annotate,annotate,the-instrument
-1/25/2022,T,2,Linnaeus & His Legacy,linnaeus,https://docs.google.com/presentation/d/e/2PACX-1vRZtjviyLOTdJ7o6TQxlD3rbBc0nkpTD0cBw5KYFDu78LABvuV8hgpLXaSn8AWZSfhNnVcBuuTMT26s/pub,Melisa,Starburst Identity Chart,,
-,,,Spring Break,spring-break,,,,,
-4/28/2022,TH,26,Project Presentations,,,TBD,,,
-5/3/2022,T,27,Project Presentations,,,TBD,,,
-5/10/2022,,,FINALS WEEK,,,,Final Project Due,project,
+1/17/2024,W,1,Intro Lecture; introduction to Project 1,01-introduction,,David,Project 1,project1,project
+1/22/2024,M,2,"Signs, minimal signs, and compositionality",,,David,,,
+1/24/2024,W,3,Affixation and morphological segmentation,,,David,,,
+1/29/2024,M,4,"Inflection, derivation, and compounding",,,David,,,
+1/31/2024,W,5,"Morphotactics, affix ordering, the mirror principles, and the relevance principle",,,David,,,
+2/5/2024,M,6,Computational approaches to morphological segmentation/tokenization,,,David,,,
+,,7,Allomorphy,,,David,,,
+,,8,Non-concatenative processes,,,David,,,
+,,9,Lexemes and paradigms; introduction to Project 2,,,David,Project 2,project2,project
+,,10,Grammatical properties,,,David,,,
+,,11,Word-and-Paradigm morphology,,,David,,,
+,,12,Rules of realization and rules of referral,,,David,,,
+,,13,Neural approaches to reinflection,,,David,,,
+,,14,Neural approaches to paradigm completion,,,David,,,
+,,15,Descriptive phonetics; introduction to Project 3,,,David,Project 3,project3,project
+,,16,IPA versus orthographies,,,David,,,
+,,17,Typology of orthographies,,,David,,,
+,,18,G2P and P2G,,,David,,,
+,,19,Unicode—logical and visual representations,,,David,,,
+,,20,Input methods (ML and HCI perspectives),,,David,,,
+,,21,Articulatory features; introduction to Project 4,,,David,Project 4,project4,project
+,,22,Syllabification and syllable segmentation,,,David,,,
+,,23,Phonological similarity and cognate detection,,,David,,,
+,,24,Sound change,,,David,,,
+,,25,Rule ordering and relative chronology,,,David,,,
+,,26,Presentations,,,Class,,,

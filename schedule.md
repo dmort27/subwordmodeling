@@ -7,7 +7,7 @@ just read the code :P).
   <tr>
     <th>Date</th>
     <th>Day</th>
-    <th>Lec #</th>
+    <th>Lec</th>
     <th>Topic</th>
     <th>Assignment</th>
     <!-- add additional column header labels here -->
@@ -26,8 +26,8 @@ just read the code :P).
     <td>{{ lec.Lec }}</td>
     <td>
       {% if lec.Lec %}
-        {% if lec["Topic Slide Link"] %}
-          <a href="lectures/{{ lec["Topic Tag"] }}.html">{{ lec.Topic }}</a>
+        {% if lec["Topic Tag"] %}
+          <a href="lectures/{{ lec["Topic Tag"] }}.pdf">{{ lec.Topic }}</a>
         {% else %}
           {{ lec.Topic }}
         {% endif %}

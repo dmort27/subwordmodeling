@@ -18,15 +18,27 @@
   @return $string;
 }
 
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,300;0,400;1,200;1,400&display=swap');
+
 /// you may specify any of the Google font names here
 // https://fonts.google.com/
-$font: "Gowun Batang";
+$font: "Noto Sans Light";
 //$font: "Open Sans";
 //$font: "Lato";
 //$font: "Quicksand";
 //$font: "Nanum Myeongjo";
 //$font: "Pacifico"; // don't use this :P
 //$font: "Mouse Memoirs"; // don't use this either
+
+$carnegie-red: #C41230;
+$iron-gray: #6D6E71;
+$steel-gray: #E0E0E0;
+$scots-rose: #EF3A47;
+$gold-thread: #FDB515;
+$green-thread: #009647;
+$teal-thread: #008F91;
+$blue-thread: #043673;
+$highlands-sky-blue: #007BC0;
 
 $blue: #70a9dd;
 $med-dark-blue: #5a89b3;
@@ -52,7 +64,7 @@ p, li, a, td {
 }
 
 th {
-    background-color: #{$blue};
+    background-color: #{$carnegie-red};
 }
 
 td {
@@ -62,28 +74,33 @@ td {
 
 tr.lec {
     td {
-      background-color: #dfdfdf;
+      background-color: #ffffff;
+      border: 0px solid #ffffff;
     }
 }
 
 tr.nolec {
     td {
-    color: #aaa;
-    background-color: #fff;
+    color: $iron-gray;
+    background-color: $steel-gray;
   }
 }
 
 a {
-    color: #{$dark-blue};
-    font-style: bold;
-    text-decoration: underline;
+    color: #{$iron-gray};
+    font-family: "Noto Sans";
+    // text-decoration: underline;
 }
 
 header {
-    background-color: #{$blue};
-    border: 1px solid #{$blue};
-    font-style: bold;
+    background-color: #{$carnegie-red};
+    border: 1px solid #{$carnegie-red};
     margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 a.tiny-link {
@@ -94,18 +111,30 @@ a.tiny-link {
 .blockquote {
   padding: 0.0in 0.25in 0.0in 0.25in;
   font-style: italic;
-  color: #{$grey};
+  color: #{$iron-gray};
 }
 
 /// add other custom SCSS below
 .generalization {
-  background-color: #{$yellow};
+  background-color: #{$gold-thread};
 }
 
 .opinion {
-  background-color: #{$green};
+  background-color: #{$green-thread};
 }
 
 .speculation {
-  background-color: #{$blue};
+  background-color: #{$blue-thread};
+}
+
+.logo {
+  border: none;
+  outline: none;
+  border-style: none;
+}
+
+h1.header {
+  font-family: "Noto Sans Medium";
+  font-size: xx-large;
+  //font-weight: bold;
 }

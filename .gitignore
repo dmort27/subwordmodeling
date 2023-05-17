@@ -1,0 +1,6 @@
+*.swp
+.ipynb_checkpoints
+*.gz
+Gemfile.lock
+_site
+.idea
