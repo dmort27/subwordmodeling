@@ -13,13 +13,19 @@ The goal of this course is to **lead students to engage broadly with the existin
 **Day/Time:** TBA
 
 <a id="contents"></a>Contents:
+* <a href="#schedule">Schedule</a>
 * <a href="#instructors">Instructors</a>
 * <a href="#objectives">Course Objectives</a>
 * <a href="#prerequisites">Prerequisites</a>
-* <a href="#schedule">Schedule</a>
 * <a href="#grading">Grading</a>
 * <a href="#policies">Course Policies</a>
 * <a href="#resources">Student Resources</a>
+
+<a id="schedule">
+
+## Course Schedule <a class="tiny-link" href="#">Top</a>
+
+{% include_relative schedule.md %}
 
 <a id="instructors">
 
@@ -57,11 +63,6 @@ The course is open to graduate students and advanced undergraduates who have com
 
 - One prior course in NLP
 - One prior course in ML (preferred, but not required)
-
-<a id="schedule">
-## Course Schedule <a class="tiny-link" href="#">Top</a>
-
-{% include_relative schedule.md %}
 
 <a id="grading">
 
@@ -118,6 +119,7 @@ policy) so that accommodations can be made.
 ### Assignment Completion & Late Work
 
 This course works best when everybody completes their work by the designated deadlines. This prevents cascading tardiness from overwhelming both students and teaching staff. However, sometimes there are situations that call for extensions. Some examples (real examples) include the following:
+
 - The death of friend or family member
 - A wedding in the family
 - A serious accident
@@ -125,7 +127,8 @@ This course works best when everybody completes their work by the designated dea
 - A significant illness
 - A mental health crisis or episode
 - An important religious or national holiday
-We care about you and your well being more than we care about deadlines and if something difficult is happening in your life which is making it hard for you to complete an assignment on time please contact the instructor so you can talk. We have found that, often, the students who most need some leeway are those least likely to ask for it. It never hurts to ask. We will work out a plan so you can complete the requirements of the course with your physical and psychological health intact. Do not feel ashamed to reach out to me. I am eager to see you succeed.
+
+We care about you and your well being more than we care about deadlines and if something difficult is happening in your life which is making it hard for you to complete an assignment on time please contact me so we can talk. I have found that, often, the students who most need some leeway are those least likely to ask for it. It never hurts to ask. We will work out a plan so you can complete the requirements of the course with your physical and psychological health intact. Do not feel ashamed to reach out to me. I am eager to see you succeed.
 
 ### Academic Integrity
 
