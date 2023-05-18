@@ -1,11 +1,11 @@
 theme: jekyll-theme-dinky
-url: https://course.url.com
+url: https://dmort27.github.io/subwordmodeling/
 title: "Subword Modeling"
 show_downloads: false
 lsi: false
 safe: true
 source: .
-destination: docs
+destination: docs/
 incremental: false
 highlighter: rouge
 exclude: [ util, analysis, vendor ]
