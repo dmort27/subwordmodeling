@@ -3,7 +3,7 @@ Date,Day,Lec,Topic,Topic Tag,Topic Slide Link,Instructor,Assignment,Assignment T
 1/22/2024,M,2,"Signs, minimal signs, and compositionality",02-signs,,David,,,
 1/24/2024,W,3,Productivity and generalization,03-productivity,,David,,,
 ,,4,"Inflection, derivation, and compounding",04-inflection_derivation,,David,,,
-,,5,"Morphotactics, affix ordering, the mirror principles, and the relevance principle",,,David,,,
+,,5,"Morphotactics, affix ordering, the mirror principles, and the relevance principle",05-morphotactics,,David,,,
 ,,6,Computational approaches to morphological segmentation/tokenization,06-computational_approaches,,David,,,
 ,,7,Allomorphy,,,David,,,
 ,,8,Non-concatenative processes,08-nonconcatenative,,David,,,
