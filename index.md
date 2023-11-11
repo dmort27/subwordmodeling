@@ -10,9 +10,9 @@ For a complete overview, see [the syllabus](assets/pdf/subword-syllabus-proposal
 
 **Semester:** Spring 2024
 
-**Location:** TBA
+**Location:** PH 100
 
-**Day/Time:** TBA
+**Day/Time:** Tue and Thu, 11:00am—12:20pm
 
 <a id="contents"></a>Contents:
 * <a href="#schedule">Schedule</a>

@@ -5,8 +5,7 @@ just read the code :P).
 
 <table>
   <tr>
-    <th>Date</th>
-    <th>Day</th>
+    <th style="width: 4em">Date</th>
     <th>Lec</th>
     <th>Topic</th>
     <th>Assignment</th>
@@ -22,7 +21,6 @@ just read the code :P).
   <tr class="nolec">
   {% endif %}
     <td>{{ lec.Date }}</td>
-    <td>{{ lec.Day }}</td>
     <td>{{ lec.Lec }}</td>
     <td>
       {% if lec.Lec %}
