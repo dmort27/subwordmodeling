@@ -4,9 +4,6 @@ permalink: /
 
 # Subword Modeling
 
-<div style="margin: 1em; color: hsl(0 80% 50%); font-size: 18pt">Due to a series of administrative errors, <span style="font-weight: bold;">this course has not been assigned the proper days, time, or room in SIO</span>. I recognize that this may cause problems with registration and would fix it if it was in my power. Assume that the days and time listed here are correct.</div>
-
-
 The goal of this course is to **lead students to engage broadly with the existing NLP and computational linguistics research on subword modeling** and **develop new computational approaches to problems in morphology, orthography, and phonology**. In addition to three other miniprojects, students will be expected to produce one piece of research that can be developed into a conference or workshop paper (though submission is not a course requirement). The paper should be suitable for the “Phonology, Morphology, and Word Segmentation” tracks of the *ACL conferences, the SIGMORPHON workshop, Coling, or LREC.
 
 For a complete overview, see [the syllabus](assets/pdf/subword-syllabus-proposal.pdf).
