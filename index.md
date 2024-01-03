@@ -36,10 +36,17 @@ For a complete overview, see [the syllabus](assets/pdf/subword-syllabus-proposal
 **Instructor:** Prof. David R. Mortensen
 
 * *Office Location:* GHC 5407
-* *Office Hours:* TBA (Appointments always welcome)
+* *Office Hours:* Tue 1:00–2:00pm, Wed 10:00–11:00am (Appointments always welcome)
 
 * *Email:* dmortens@cs.cmu.edu
-* *Twitter:* 
+* *Twitter:* dmort27 
+
+**Teaching Assistant:** Anjali Kantharuban
+
+* *Office Location:* TAB
+* *Office Hours:* TBA
+
+* *Email:* akanthar@andrew.cmu.edu
 
 <a id="objectives">
 
@@ -49,12 +56,12 @@ At the end of this course, students will:
 - Express a sophisticated understanding of the fundamentals of morphology, phonetics, writing systems, and phonology
 - Understand current papers in computational phonology, morphology, and orthography
 - Implement current subword models of language and carry out publication-quality experiments in this area
-- Write publication-quality papers reporting computational research in phonology, morphology, and orthography
+- Write publication-quality papers reporting computational research in computational linguistics
 
 ### Course Principles and Classroom guidelines
 
 This course will be based around discussion of readings, guided by handouts. There will be no slides and no recordings of lectures. There are three groundrules:
-- All class members are expected to have read the readings prior to the beginning of the lecture.
+- All class members are expected to have read the readings prior to the beginning of the lecture. In some cases, readings will be divided among class members. This will be made clear during previous class meetings.
 - All class members have a way of taking notes on handouts (e.g., a tablet + stylus or a printed copy and a pencil/pen). Handouts will be provided at least 24 hours in advance of class. If there is enough demand, the instructor can print copies of the handout for student use.
 - All class members will treat other members of the class with dignity and respect.
 
@@ -89,7 +96,7 @@ There are two required textbooks (in additional to many freely available reading
 
 ### Office Hours
 
-Scheduled for 1 hours weekly. One-on-one meetings with the instructor can always be scheduled using Calendly.
+Scheduled for 2 hours weekly. One-on-one meetings with the instructor can always be scheduled using Calendly.
 
 ### Office of Disability and Access Services
 
@@ -109,7 +116,7 @@ more information, please ask, and I will work with you.
 
 ### Diversity, Inclusion, Anti-racism
 
-Throughout human history, some people have been denied the rights and opportunities available to others on the basis of their race, gender, economic class, caste, ancestry, language community, age, religion, beliefs, political affiliation, and abilities (visible and invisible). A single course cannot undo the injustices of history, but we---as a teaching staff---are committed to fighting inequity and promoting inclusion. We encourage you to join us. If you feel that you, or those around you, have been treated unfairly based upon their identity (or perceived identity) by us, by other members of the teaching staff, or by other students in the course, we ask that you bring it to our attention so that we can address the wrongs (as well as pursing the approved University channels).
+Throughout human history, some people have been denied the rights and opportunities available to others on the basis of their race, gender, economic class, caste, ancestry, language community, age, religion, beliefs, political affiliation, and abilities (visible and invisible). A single course cannot undo the injustices of history, but we—as a teaching staff—are committed to fighting inequity and promoting inclusion. We encourage you to join us. If you feel that you, or those around you, have been treated unfairly based upon their identity (or perceived identity) by us, by other members of the teaching staff, or by other students in the course, we ask that you bring it to our attention so that we can address the wrongs (as well as pursing the approved University channels).
 
 ### Policy on Religious Observances
 
@@ -130,7 +137,7 @@ This course works best when everybody completes their work by the designated dea
 - A mental health crisis or episode
 - An important religious or national holiday
 
-We care about you and your well being more than we care about deadlines and if something difficult is happening in your life which is making it hard for you to complete an assignment on time please contact me so we can talk. I have found that, often, the students who most need some leeway are those least likely to ask for it. It never hurts to ask. We will work out a plan so you can complete the requirements of the course with your physical and psychological health intact. Do not feel ashamed to reach out to me. I am eager to see you succeed.
+We care about you and your well being more than we care about deadlines and if something difficult is happening in your life which is making it hard for you to complete an assignment on time please contact me so we can talk. I have found that, often, the students who most need some leeway are those least likely to ask for it. When in doubt, ask. We will work out a plan so you can complete the requirements of the course with your physical and psychological health intact. Do not feel ashamed to reach out to me. I am eager to see you succeed.
 
 ### Academic Integrity
 
