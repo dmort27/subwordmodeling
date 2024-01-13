@@ -43,8 +43,8 @@ For a complete overview, see [the syllabus](assets/pdf/subword-syllabus-proposal
 
 **Teaching Assistant:** Anjali Kantharuban
 
-* *Office Location:* TAB
-* *Office Hours:* TBA
+* *Office Hours Location:* GHC 5417
+* *Office Hours:* Mon 16:00–17:00, Wed 16:00–17:00
 
 * *Email:* akanthar@andrew.cmu.edu
 
@@ -61,7 +61,7 @@ At the end of this course, students will:
 ### Course Principles and Classroom guidelines
 
 This course will be based around discussion of readings, guided by handouts. There will be no slides and no recordings of lectures. There are three groundrules:
-- All class members are expected to have read the readings prior to the beginning of the lecture. In some cases, readings will be divided among class members. This will be made clear during previous class meetings.
+- All class members are expected to have read readings prior to the beginning of the lecture. In many cases, readings will be divided among class members. This will be made clear during previous class meetings.
 - All class members have a way of taking notes on handouts (e.g., a tablet + stylus or a printed copy and a pencil/pen). Handouts will be provided at least 24 hours in advance of class. If there is enough demand, the instructor can print copies of the handout for student use.
 - All class members will treat other members of the class with dignity and respect.
 
