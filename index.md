@@ -6,7 +6,7 @@ permalink: /
 
 The goal of this course is to **lead students to engage broadly with the existing NLP and computational linguistics research on subword modeling** and **develop new computational approaches to problems in morphology, orthography, and phonology**. In addition to three other miniprojects, students will be expected to produce one piece of research that can be developed into a conference or workshop paper (though submission is not a course requirement). The paper should be suitable for the “Phonology, Morphology, and Word Segmentation” tracks of the *ACL conferences, the SIGMORPHON workshop, Coling, or LREC.
 
-For a complete overview, see [the syllabus](assets/pdf/syllabus-s23.pdf).
+For a complete overview, see [the syllabus](assets/pdf/syllabus-s24.pdf).
 
 **Semester:** Spring 2024
 
