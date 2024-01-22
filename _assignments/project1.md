@@ -3,7 +3,7 @@
 
 # The First Project
 
-The goal of the first project is to develop a tokenizer—a morphological segmenter—that segments text from an arbitrary language more similarly to gold morpheme segmentations by a linguist than two baselines: a rule-based (FST) baseline and a Unigram tokenization model. 
+The goal of the first project is to develop a tokenizer—a morphological segmenter—that segments text from an arbitrary language more similarly to gold morpheme segmentations by a linguist than two baselines: a Morfessor baseline and a Unigram tokenization model. 
 
 ## The data
 
@@ -18,11 +18,9 @@ For each language, for each set (train, dev, and test), you will be provided wit
 
 # The task
 
-The goal is the reproduce the reference target given the source and a model trained on the (source side of the) training set. This can be seen an a sequence labeling task in which your model must decide whether a character is the beginning of a new span (morpheme) or the continuation of an existing span. There are other ways of viewing the task, but evaluation (in terms of precision/recall/F1) will be based on this paradigm. Labeling a character as “beginning” will be treated as a positive and not labeling it as such will be treated as a negative.
+The goal is the reproduce the reference target given the source and a model trained on the (source side of the) training set. This can be seen an a sequence labeling task in which your model must decide whether a character is the beginning of a new span (morpheme) or the continuation of an existing span. Because of allomorphy in the data that is reduced to an underlying representation (see the lecture notes on allomorphy), we decided that it was unfair to simply score based on a sequence labeling paradigm. Instead, you will be scored based on precision/recall/F1 on a “bag of tokens.”
 
 # Baselines
 
-As will often be the case in this course, there will be two baselines: one data-driven and one rule-based.
-
-- **FST (rule-based).** For each language, there will be a hand-crafted finite-state transducer based segmentation model. This model will be based on linguist analysis of the data and secondary literature on the morphology (word structure) of the language. You will be provided with access to the FST outputs for the dev set.
+- **Morfessor (data-driven).** For each language, the Morfessor morphological segmentation algorithm will be applied. This algorithm, which is reasonably complicated, is designed to yield segmentations that resemble morpheme segemntations used by linguists.
 - **Unigram (data-driven).** For each language, a Unigram model will be trained on the training set. If other unlabeled text data can be found, it will be used as well (and shared with you). You will be provided with the Unigram tokenizer output for the dev set.
