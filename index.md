@@ -29,6 +29,10 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s24.pdf).
 
 {% include_relative schedule.md %}
 
+## In-Class Exercises <a class="tiny-link" href="#">Top</a>
+
+* <a href="assets/zip/wp-totonac-inclass.zip">Totonac Word-and-Paradigm Excercise</a>
+
 <a id="instructors">
 
 ## Instructors <a class="tiny-link" href="#">Top</a>
