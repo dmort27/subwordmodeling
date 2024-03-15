@@ -20,7 +20,57 @@ For WFST and neural models, you are responsible for finding your own training da
 
 For constructing a rule-based G2P with Epitran, you will need references. You should usually start with Wikipedia, not because the description of the sound-symbol mappings and rules there are necessarily accurate, but because it can point you to other, more authoritative, resources. **You can start with, but should not stop with, the tables in a Wikipedia article.
 
+## Languages in Urgent Need for Epitran Support
+
+The following languages are well-represented in the Mozilla Common Voice dataset but are not currently supported by Epitran (presenting a problem for corpus phonetics researchers). **I strongly urge you to choose one of these languages**.
+
+- Afrikaans
+- Assamese
+- Basaa
+- Breton
+- Welsh
+- Danish
+- Dioula
+- Esperanto
+- Estonian
+- Finnish
+- Frisian
+- Irish
+- Galician
+- Igbo
+- Interlingua
+- Icelandic
+- Japanese
+- Kabyle
+- Latvian
+- Lithuanian
+- Latgalian
+- Luganda
+- Moksha
+- Meadow Mari
+- Hill Mari
+- Western Sierra Puebla Nahuatl
+- Norwegian Nynorsk
+- Occitan
+- Pashto
+- Quechua Chanka
+- Romansh Sursilvan
+- Romansh Vallader
+- Saraiki
+- Slovenian
+- Sardinian
+- Serbian
+- Tigre
+- Toki Pona
+- Twi
+- Votic
+- Cantonese
+- Tamazight
+
+
 ## Some Major Languages without Epitran Support
+
+If you really don't want to do one of the Common Voice languages, here are the top-50 languages (in terms of number of speakers) that are not in Epitran yet.
 
 - Iranian Persian
 - Western Punjabi
