@@ -139,5 +139,5 @@ def mean_reciprocal_rank(gold, inputs, preds):
 
 You will upload your outputs to Gradescope with the names:
 
-- `ukhrul-tusom_candidates.tsv`
-- `ukhrul-kachai_candidates.tsv`
+- `ukhrul-tusom_out.tsv`
+- `ukhrul-kachai_out.tsv`
