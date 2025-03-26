@@ -3,6 +3,8 @@
 
 # The Fourth Project: Cognate Detection
 
+## Due: April 10th, 2025
+
 Cognates are pairs of words that are descended from the same word in an language directly ancestral to the two languages from which the pairs are drawn. These are to be distinguished from loanwords (or *borrowings*), which are “borrowed” into one language from a another language. Borrowing is like adoption and the relationship between cognates is like tha between blood siblings.
 
 Im this project, you will build a model to automatically identify cognates. You will be given data from four closely-related languages:
@@ -26,7 +28,8 @@ You will be provided with the following sets:
 - Ukhrul–Tusom
 - Ukrhul–Kachai
 
-The data is in [proj4_dataset.zip](proj4_dataset.zip).
+The data is in [student_dataset.zip](https://github.com/user-attachments/files/19460386/student_dataset.zip)
+
 
 ## The Task
 
@@ -41,14 +44,16 @@ The format should look like this:
 
 The baseline system takes the phonological similarity and semantic similarity of the candidate cognates into account. It uses a simple method of producing phonological embeddings that is based upon the tf-idf of IPA character 1-, 2-, and 3-grams. The algorithm simply ranks words according to the cosine similarity of their embeddings. The semantic similarity metric is “exact match on the gloss.” If the glosses of the Ukhrul word and the candidate match completely, `1` is added to the score. Otherwise `0` is added to the score.
 
+The baseline code is here: https://colab.research.google.com/drive/1Duh7ZU7oSDNEvXckpG9sWUUjxr892XFX?usp=sharing
+
 The baseline scores are as follows:
 
 |---------------|----------------------|
 | Language Pair | Mean Reciprocal Rank |
 |---------------| -------------------: |
-| Ukhrul-Huishu |                 0.92 |
-| Ukhrul-Kachai |                 0.81 |
-| Ukhrul-Tusom  |                 0.92 |
+| Ukhrul-Huishu |                 0.61 |
+| Ukhrul-Kachai |                 0.66 |
+| Ukhrul-Tusom  |                 0.42 |
 |---------------|----------------------|
 
 ## Evaluation
