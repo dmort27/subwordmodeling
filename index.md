@@ -10,11 +10,11 @@ The goal of this course is to **lead students to engage broadly with the existin
 
 For a complete overview, see [the syllabus](assets/pdf/syllabus-s25.pdf).
 
-**Semester:** Spring 2025
+**Semester:** Spring 2026
 
-**Location:** DH A302
+**Location:** WH 5415
 
-**Day/Time: Tue and Thurs, 11:00 am — 12:20 pm**
+**Day/Time: Tue and Thurs, 12:30 am — 1:50 pm**
 
 <a id="contents"></a>Contents:
 * <a href="#schedule">Schedule</a>
@@ -45,7 +45,7 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s25.pdf).
 * *Office Hours:* Tue 1:00–2:00pm, Wed 10:00–11:00am (Appointments always welcome)
 
 * *Email:* dmortens@cs.cmu.edu
-* *Twitter:* dmort27 
+* *Twitter:* dmort27
 
 **Teaching Assistant:** Rithvik Senthil
 
