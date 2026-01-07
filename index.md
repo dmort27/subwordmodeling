@@ -133,21 +133,10 @@ policy) so that accommodations can be made.
 
 ### Assignment Completion & Late Work
 
-This course works best when everybody completes their work by the designated deadlines. This prevents cascading tardiness from overwhelming both students and teaching staff. However, sometimes there are situations that call for extensions. Some examples (real examples) include the following:
-
-- The death of friend or family member
-- A wedding in the family
-- A serious accident
-- A surgery
-- A significant illness
-- A mental health crisis or episode
-- An important religious or national holiday
-
-We care about you and your well being more than we care about deadlines and if something difficult is happening in your life which is making it hard for you to complete an assignment on time please contact me so we can talk. I have found that, often, the students who most need some leeway are those least likely to ask for it. When in doubt, ask. We will work out a plan so you can complete the requirements of the course with your physical and psychological health intact. Do not feel ashamed to reach out to me. I am eager to see you succeed.
-
+This course works best when everybody completes their work by the designated deadlines. This prevents cascading tardiness from overwhelming both students and teaching staff. However, sometimes there are situations that call for extensions. Following university policy, we cannot grant extensions for these situations. However, we encourage you to work with the Disability Resources Office to request accommodations appropriate to you situation.
 ### Academic Integrity
 
-Any cheating or plagiarism will be dealt with according to the University policies on academic integrity. In general, discussion of tools, concepts, and formalisms is acceptable collaboration and is encouraged. Misrepresenting the work of others as your own, however, is considered cheating.
+Any cheating or plagiarism will be dealt with according to the University policies on academic integrity. In general, discussion of tools, concepts, and formalisms is acceptable collaboration and is encouraged. Misrepresenting the work of others as your own, however, is considered cheating. If you are found to have cheated on an assessment, you will lose credit for that assessment and will be reported to the Office of Community Responsibility. The consequences of AIVs can be severe, including suspension or expulsion from the University.
 
 ## License
 
