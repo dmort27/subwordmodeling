@@ -12,7 +12,7 @@ For a complete overview, see [the syllabus](assets/pdf/syllabus-s26.pdf).
 
 **Semester:** Spring 2026
 
-**Location:** WH 5415
+**Location:** WEH 5415
 
 **Day/Time: Tue and Thurs, 12:30 am — 1:50 pm**
 
