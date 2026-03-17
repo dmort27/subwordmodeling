@@ -41,6 +41,8 @@ To obtain full credit, the student's model must achieve and exact match rate at 
 
 The baseline scores to beat are as follows: 
 
-| PER  | EM   |
-| ---- | ---- | 
-| 0.56 | 0.32 |
+| PER   | EM    |
+| ----- | ----- | 
+| 0.562 | 0.326 |
+
+Code to reproduce the baseline can be found [here](https://colab.research.google.com/drive/1NJ1I_ubQtN7PuLD6d8tvcpfivpe-hjfE?usp=sharing).
