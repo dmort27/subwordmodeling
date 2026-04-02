@@ -3,7 +3,7 @@
 
 # The Fourth Project: Cognate Detection
 
-## Due: April 10th, 2025
+## Due: April 25th, 2025 (Last day of classes)
 
 Cognates are pairs of words that are descended from the same word in an language directly ancestral to the two languages from which the pairs are drawn. These are to be distinguished from loanwords (or *borrowings*), which are “borrowed” into one language from a another language. Borrowing is like adoption and the relationship between cognates is like tha between blood siblings.
 
